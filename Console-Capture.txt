@@ -1,0 +1,210 @@
+------This is run number: 1------
+****Emperical Measures For: Insertion Sort
+****Element Comparisons Made: 24788584
+****Clock Time Measurement: .038 S
+ 
+****Emperical Measures For: Selection Sort
+****Element Comparisons Made: 49995000
+****Clock Time Measurement: .045 S
+ 
+****Emperical Measures For: Bubble Sort
+****Element Comparisons Made: 49995000
+****Clock Time Measurement: .112 S
+ 
+****Emperical Measures For: Binary Search
+****Average Compares: 11
+****Average Runtime: 678 nS
+ 
+****Emperical Measures For: Linear Search
+****Average Compares: 9483
+****Average Runtime: 46378 nS
+ 
+------This is run number: 2------
+****Emperical Measures For: Insertion Sort
+****Element Comparisons Made: 99670493
+****Clock Time Measurement: .13 S
+ 
+****Emperical Measures For: Selection Sort
+****Element Comparisons Made: 199990000
+****Clock Time Measurement: .155 S
+ 
+****Emperical Measures For: Bubble Sort
+****Element Comparisons Made: 199990000
+****Clock Time Measurement: .447 S
+ 
+****Emperical Measures For: Binary Search
+****Average Compares: 12
+****Average Runtime: 857 nS
+ 
+****Emperical Measures For: Linear Search
+****Average Compares: 18959
+****Average Runtime: 46053 nS
+ 
+------This is run number: 3------
+****Emperical Measures For: Insertion Sort
+****Element Comparisons Made: 225063532
+****Clock Time Measurement: .142 S
+ 
+****Emperical Measures For: Selection Sort
+****Element Comparisons Made: 449985000
+****Clock Time Measurement: .321 S
+ 
+****Emperical Measures For: Bubble Sort
+****Element Comparisons Made: 449985000
+****Clock Time Measurement: 1.033 S
+ 
+****Emperical Measures For: Binary Search
+****Average Compares: 13
+****Average Runtime: 368 nS
+ 
+****Emperical Measures For: Linear Search
+****Average Compares: 24980
+****Average Runtime: 9921 nS
+ 
+------This is run number: 4------
+****Emperical Measures For: Insertion Sort
+****Element Comparisons Made: 400366905
+****Clock Time Measurement: .256 S
+ 
+****Emperical Measures For: Selection Sort
+****Element Comparisons Made: 799980000
+****Clock Time Measurement: .621 S
+ 
+****Emperical Measures For: Bubble Sort
+****Element Comparisons Made: 799980000
+****Clock Time Measurement: 1.834 S
+ 
+****Emperical Measures For: Binary Search
+****Average Compares: 13
+****Average Runtime: 336 nS
+ 
+****Emperical Measures For: Linear Search
+****Average Compares: 34558
+****Average Runtime: 13709 nS
+ 
+------This is run number: 5------
+****Emperical Measures For: Insertion Sort
+****Element Comparisons Made: 628010162
+****Clock Time Measurement: .405 S
+ 
+****Emperical Measures For: Selection Sort
+****Element Comparisons Made: 1249975000
+****Clock Time Measurement: .972 S
+ 
+****Emperical Measures For: Bubble Sort
+****Element Comparisons Made: 1249975000
+****Clock Time Measurement: 2.942 S
+ 
+****Emperical Measures For: Binary Search
+****Average Compares: 13
+****Average Runtime: 921 nS
+ 
+****Emperical Measures For: Linear Search
+****Average Compares: 41077
+****Average Runtime: 20105 nS
+ 
+------This is run number: 6------
+****Emperical Measures For: Insertion Sort
+****Element Comparisons Made: 902797993
+****Clock Time Measurement: .581 S
+ 
+****Emperical Measures For: Selection Sort
+****Element Comparisons Made: 1799970000
+****Clock Time Measurement: 1.42 S
+ 
+****Emperical Measures For: Bubble Sort
+****Element Comparisons Made: 1799970000
+****Clock Time Measurement: 4.144 S
+ 
+****Emperical Measures For: Binary Search
+****Average Compares: 14
+****Average Runtime: 693 nS
+ 
+****Emperical Measures For: Linear Search
+****Average Compares: 42163
+****Average Runtime: 17958 nS
+ 
+------This is run number: 7------
+****Emperical Measures For: Insertion Sort
+****Element Comparisons Made: 1226126741
+****Clock Time Measurement: .81 S
+ 
+****Emperical Measures For: Selection Sort
+****Element Comparisons Made: 2449965000
+****Clock Time Measurement: 1.943 S
+ 
+****Emperical Measures For: Bubble Sort
+****Element Comparisons Made: 2449965000
+****Clock Time Measurement: 5.782 S
+ 
+****Emperical Measures For: Binary Search
+****Average Compares: 14
+****Average Runtime: 421 nS
+ 
+****Emperical Measures For: Linear Search
+****Average Compares: 55175
+****Average Runtime: 23628 nS
+ 
+------This is run number: 8------
+****Emperical Measures For: Insertion Sort
+****Element Comparisons Made: 1601186037
+****Clock Time Measurement: 1.053 S
+ 
+****Emperical Measures For: Selection Sort
+****Element Comparisons Made: 3199960000
+****Clock Time Measurement: 2.545 S
+ 
+****Emperical Measures For: Bubble Sort
+****Element Comparisons Made: 3199960000
+****Clock Time Measurement: 7.659 S
+ 
+****Emperical Measures For: Binary Search
+****Average Compares: 14
+****Average Runtime: 740 nS
+ 
+****Emperical Measures For: Linear Search
+****Average Compares: 58002
+****Average Runtime: 24605 nS
+ 
+------This is run number: 9------
+****Emperical Measures For: Insertion Sort
+****Element Comparisons Made: 2020208208
+****Clock Time Measurement: 1.291 S
+ 
+****Emperical Measures For: Selection Sort
+****Element Comparisons Made: 4049955000
+****Clock Time Measurement: 3.132 S
+ 
+****Emperical Measures For: Bubble Sort
+****Element Comparisons Made: 4049955000
+****Clock Time Measurement: 9.299 S
+ 
+****Emperical Measures For: Binary Search
+****Average Compares: 14
+****Average Runtime: 526 nS
+ 
+****Emperical Measures For: Linear Search
+****Average Compares: 60831
+****Average Runtime: 25199 nS
+ 
+------This is run number: 10------
+****Emperical Measures For: Insertion Sort
+****Element Comparisons Made: 2507280864
+****Clock Time Measurement: 1.613 S
+ 
+****Emperical Measures For: Selection Sort
+****Element Comparisons Made: 4999950000
+****Clock Time Measurement: 3.885 S
+ 
+****Emperical Measures For: Bubble Sort
+****Element Comparisons Made: 4999950000
+****Clock Time Measurement: 11.799 S
+ 
+****Emperical Measures For: Binary Search
+****Average Compares: 14
+****Average Runtime: 523 nS
+ 
+****Emperical Measures For: Linear Search
+****Average Compares: 67581
+****Average Runtime: 27864 nS
+ 
