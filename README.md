@@ -10,13 +10,13 @@ At the top of the every source file that you create always write a class JavaDoc
 \* @version CS260 Lab #, mm/dd/yyyy (replace with the last edit date) <br />
 \*/<br />
  
-Concepts 
+Concepts <br />
 This lab will give you some basic tools and techniques for empirical time (and space) analysis of programs. You will focus on two techniques; using counters for counting operations (for this lab we are counting comparisons and memory moves) and clock time measurement. 
 
-Background 
+Background <br />
 Review the online text material on time and space analysis (complexity). 
 
-Assignment 
+Assignment <br />
 For this assignment you will be learning to add counters to programs to measure targeted operations and clock time measurements to compare execution durations. Download the source code “SortSearch.java” from the class web site http://www.wou.edu/las/cs/csclasses/ under CS260 tab. This code fills an array with random integers and then provides several sorting routines (bubble, selection, insertion). You will be modifying this program. 
 Note: It required that you use Eclipse. Please ensure that your single source file compiles correctly from the command line. 
 
